@@ -1,5 +1,6 @@
 # Summarizer-AI
 Building AI Course Project
+![Image of a woman doing research](/Research.png)
 ## Summary
 I plan to build an AI that summarizes various bodies of text, with an explicit focus on research papers. The goal of this AI is to help make it easier to understand and keep up with the massive influx of research papers that are currently being released daily. Through human means it would simply be impossible to do so. It's my hope that this tool will efficiently provide a brief but informative summary of the research paper that will lead to a deeper understanding of the paper's contents.
 ## Background
@@ -14,3 +15,5 @@ The model will have some limitations unfortunately. For example, it will not be 
 The project could eventually grow into a personal assistant connected to standard web browsers that can summarize whatever is on the screen if the user so chooses. It can also get to the point of helping people develop, outline, or write research papers as well, since it will specialize in understanding them.
 ## Acknowledgements
 Currently there is no data being used in this project, but this will change as it develops. I will be adding acknowledgements over time as required. I can definitely express here my appreciation for the AI community in general however. It is simply awe-inspiring to me how much effort people put into this domain, simply for the sake of others. I hope that I too can do my part. You guys inspire me. I do this so that I may be helpful and perhaps a source of inspiration myself.
+
+![A tech enhanced woman](/Tech_Enhanced_Euphoria.png)
